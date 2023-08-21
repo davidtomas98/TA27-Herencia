@@ -1,0 +1,14 @@
+C:\Users\david.tomas\C4\TA27\TA27-Herencia\M5ExerciciJobs\Milestone2\Milestone2\bin\Debug\net7.0\Milestone2.exe
+C:\Users\david.tomas\C4\TA27\TA27-Herencia\M5ExerciciJobs\Milestone2\Milestone2\bin\Debug\net7.0\Milestone2.deps.json
+C:\Users\david.tomas\C4\TA27\TA27-Herencia\M5ExerciciJobs\Milestone2\Milestone2\bin\Debug\net7.0\Milestone2.runtimeconfig.json
+C:\Users\david.tomas\C4\TA27\TA27-Herencia\M5ExerciciJobs\Milestone2\Milestone2\bin\Debug\net7.0\Milestone2.dll
+C:\Users\david.tomas\C4\TA27\TA27-Herencia\M5ExerciciJobs\Milestone2\Milestone2\bin\Debug\net7.0\Milestone2.pdb
+C:\Users\david.tomas\C4\TA27\TA27-Herencia\M5ExerciciJobs\Milestone2\Milestone2\obj\Debug\net7.0\Milestone2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david.tomas\C4\TA27\TA27-Herencia\M5ExerciciJobs\Milestone2\Milestone2\obj\Debug\net7.0\Milestone2.AssemblyInfoInputs.cache
+C:\Users\david.tomas\C4\TA27\TA27-Herencia\M5ExerciciJobs\Milestone2\Milestone2\obj\Debug\net7.0\Milestone2.AssemblyInfo.cs
+C:\Users\david.tomas\C4\TA27\TA27-Herencia\M5ExerciciJobs\Milestone2\Milestone2\obj\Debug\net7.0\Milestone2.csproj.CoreCompileInputs.cache
+C:\Users\david.tomas\C4\TA27\TA27-Herencia\M5ExerciciJobs\Milestone2\Milestone2\obj\Debug\net7.0\Milestone2.dll
+C:\Users\david.tomas\C4\TA27\TA27-Herencia\M5ExerciciJobs\Milestone2\Milestone2\obj\Debug\net7.0\refint\Milestone2.dll
+C:\Users\david.tomas\C4\TA27\TA27-Herencia\M5ExerciciJobs\Milestone2\Milestone2\obj\Debug\net7.0\Milestone2.pdb
+C:\Users\david.tomas\C4\TA27\TA27-Herencia\M5ExerciciJobs\Milestone2\Milestone2\obj\Debug\net7.0\Milestone2.genruntimeconfig.cache
+C:\Users\david.tomas\C4\TA27\TA27-Herencia\M5ExerciciJobs\Milestone2\Milestone2\obj\Debug\net7.0\ref\Milestone2.dll

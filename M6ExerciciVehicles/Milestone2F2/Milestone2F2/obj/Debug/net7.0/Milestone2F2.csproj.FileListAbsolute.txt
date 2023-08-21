@@ -1,0 +1,14 @@
+C:\Users\david.tomas\C4\TA27\TA27-Herencia\M6ExerciciVehicles\Milestone2F2\Milestone2F2\bin\Debug\net7.0\Milestone2F2.exe
+C:\Users\david.tomas\C4\TA27\TA27-Herencia\M6ExerciciVehicles\Milestone2F2\Milestone2F2\bin\Debug\net7.0\Milestone2F2.deps.json
+C:\Users\david.tomas\C4\TA27\TA27-Herencia\M6ExerciciVehicles\Milestone2F2\Milestone2F2\bin\Debug\net7.0\Milestone2F2.runtimeconfig.json
+C:\Users\david.tomas\C4\TA27\TA27-Herencia\M6ExerciciVehicles\Milestone2F2\Milestone2F2\bin\Debug\net7.0\Milestone2F2.dll
+C:\Users\david.tomas\C4\TA27\TA27-Herencia\M6ExerciciVehicles\Milestone2F2\Milestone2F2\bin\Debug\net7.0\Milestone2F2.pdb
+C:\Users\david.tomas\C4\TA27\TA27-Herencia\M6ExerciciVehicles\Milestone2F2\Milestone2F2\obj\Debug\net7.0\Milestone2F2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david.tomas\C4\TA27\TA27-Herencia\M6ExerciciVehicles\Milestone2F2\Milestone2F2\obj\Debug\net7.0\Milestone2F2.AssemblyInfoInputs.cache
+C:\Users\david.tomas\C4\TA27\TA27-Herencia\M6ExerciciVehicles\Milestone2F2\Milestone2F2\obj\Debug\net7.0\Milestone2F2.AssemblyInfo.cs
+C:\Users\david.tomas\C4\TA27\TA27-Herencia\M6ExerciciVehicles\Milestone2F2\Milestone2F2\obj\Debug\net7.0\Milestone2F2.csproj.CoreCompileInputs.cache
+C:\Users\david.tomas\C4\TA27\TA27-Herencia\M6ExerciciVehicles\Milestone2F2\Milestone2F2\obj\Debug\net7.0\Milestone2F2.dll
+C:\Users\david.tomas\C4\TA27\TA27-Herencia\M6ExerciciVehicles\Milestone2F2\Milestone2F2\obj\Debug\net7.0\refint\Milestone2F2.dll
+C:\Users\david.tomas\C4\TA27\TA27-Herencia\M6ExerciciVehicles\Milestone2F2\Milestone2F2\obj\Debug\net7.0\Milestone2F2.pdb
+C:\Users\david.tomas\C4\TA27\TA27-Herencia\M6ExerciciVehicles\Milestone2F2\Milestone2F2\obj\Debug\net7.0\Milestone2F2.genruntimeconfig.cache
+C:\Users\david.tomas\C4\TA27\TA27-Herencia\M6ExerciciVehicles\Milestone2F2\Milestone2F2\obj\Debug\net7.0\ref\Milestone2F2.dll

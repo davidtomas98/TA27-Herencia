@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Milestone1F3/1.0.0": {
+        "runtime": {
+          "Milestone1F3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Milestone1F3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
